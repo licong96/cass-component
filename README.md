@@ -1,4 +1,4 @@
-## Vikingship component library
+
 ## 使用 React+typescript 从零到一打造一套你自己的组件库
 
 [![Build Status](https://travis-ci.com/vikingmute/vikingship.svg?token=mHoDqxyxXWX5BSpu8L9y&branch=master)](https://travis-ci.com/vikingmute/vikingship)
